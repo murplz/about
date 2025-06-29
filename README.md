@@ -7,7 +7,7 @@ Public company profile, pitches, and compliance statements for Murplz INC.
 
 ---
 
-# Security Commitment
+## Security Commitment
 
 We protect government data through:
 - Clear subcontractor contracts with strict confidentiality clauses
@@ -19,7 +19,7 @@ Subcontractors take full responsibility for delivery quality and data integrity.
 
 ---
 
-# Services
+## Services
 
 - Web and app development (frontend and backend)
 - IT consulting and system planning
@@ -28,7 +28,7 @@ Subcontractors take full responsibility for delivery quality and data integrity.
 
 ---
 
-# Operating Regions
+## Operating Regions
 
 - Canada (nationwide)
 - United States (remote only)
@@ -36,13 +36,13 @@ Subcontractors take full responsibility for delivery quality and data integrity.
 
 ---
 
-# Business Structure
+## Business Structure
 
 Murplz INC. operates fully remotely with a trusted network of subcontractors and secure development processes. We serve as project leads, not code writers — guaranteeing oversight, deadlines, and communication.
 
 ---
 
-# Contact and Bids
+## Contact and Bids
 
 Interested in working with us or awarding a contract?
 
